@@ -4,5 +4,5 @@
 
 # 项目启动  
 安装依赖：`npm install`  
-启动服务： `npm run dev`
+启动服务： `npm run dev`  
 项目打包：`npm run build`
